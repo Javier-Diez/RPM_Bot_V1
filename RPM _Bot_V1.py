@@ -2,7 +2,7 @@
 #http://github.com/Javier-Diez
 
 import webbrowser #Library used to open Google Chrome.
-import pyautogui #Library used to interact with the compputer.
+import pyautogui #Library used to interact with the computer.
 import time #Library used to pause the program.
 from subprocess import Popen #Library used to close the tabs so your RAM doesn't run out.
 
